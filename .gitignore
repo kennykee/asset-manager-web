@@ -1,0 +1,12 @@
+# Ignore contents of cache folders but keep folders
+/data/cache/session/*
+/data/cache/attachment/*
+/data/cache/userdata/*
+/data/cache/captcha/*
+
+/data/raw/attachment/*
+
+# Optional: ignore contents of other CI3 generated folders but keep folders
+/application/logs/*
+/system/*
+.env

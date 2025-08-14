@@ -1,0 +1,4 @@
+{
+   "zpl_code": "^XA^FO230,20^A0N,30,20^FDHFC/-^FS\r\n                    ^FO240,52^A0N,30,20^FD000001^FS\r\n                    ^FO18,75^A0N,20,20^FDYamaha EV Speaker^FS\r\n                    ^FO18,95^A0N,20,20^FDClub,AV,AV,AV / Gym Equipment,Lavender (AV Control Room)^FS\r\n                    ^BY2,3^FS\r\n                    ^FO20,20^BCN,50,N,N,N^FD000001^FS\r\n                    ^FO18,118^A0N,20,20^FD^FS\r\n                    ^XZ",
+   "printer_name": "GX420t"
+}
