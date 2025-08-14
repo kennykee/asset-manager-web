@@ -80,6 +80,8 @@ For more details or to request a demonstration:
 - **Email:** [sales@kennykee.com.sg](mailto:sales@kennykee.com.sg)  
 - **Business WhatsApp:** [+65 8199 6280](https://wa.me/6581996280)
 
+---
+
 ## License
 
 This project is licensed under the MIT License.  
