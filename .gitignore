@@ -1,12 +1,20 @@
 # Ignore contents of cache folders but keep folders
 /data/cache/session/*
+!/data/cache/session/.gitkeep
+
 /data/cache/attachment/*
+!/data/cache/attachment/.gitkeep
+
 /data/cache/userdata/*
+!/data/cache/userdata/.gitkeep
+
 /data/cache/captcha/*
+!/data/cache/captcha/.gitkeep
 
 /data/raw/attachment/*
+!/data/raw/attachment/.gitkeep
 
 # Optional: ignore contents of other CI3 generated folders but keep folders
 /application/logs/*
-/system/*
+!/application/logs/.gitkeep
 .env
