@@ -4,7 +4,7 @@ KennyKee Technologies' Assets Tracking and Management System (AMS) is an solutio
 
 > **Note:** This is a legacy system built on **CodeIgniter 3.1.11**.
 
-📖 [View brochure in KennyKee Technologies](https://www.kennykee.com.sg/Enterprise-System/Assets-Tracking-and-Management-System)
+📖 [View information in KennyKee Technologies](https://www.kennykee.com.sg/Enterprise-System/Assets-Tracking-and-Management-System)
 
 ---
 
